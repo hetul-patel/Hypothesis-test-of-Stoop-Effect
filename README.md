@@ -51,23 +51,6 @@ data_set.head()
     Dataset has 24 samples.
 
 
-
-
-
-<div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -104,8 +87,6 @@ data_set.head()
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 We can use mean time as a measure of central tendancy and standard deviation as measure of variability for both the populations.
