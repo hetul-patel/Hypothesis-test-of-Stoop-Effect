@@ -3,6 +3,8 @@
 
 In a Stroop task, participants are presented with a list of words, with each word displayed in a color of ink. The participant’s task is to say out loud the color of the ink in which the word is printed. The task has two conditions: a congruent words condition, and an incongruent words condition. In the congruent words condition, the words being displayed are color words whose names match the colors in which they are printed: for example RED, BLUE. In the incongruent words condition, the words displayed are color words whose names do not match the colors in which they are printed: for example PURPLE, ORANGE. In each case, we measure the time it takes to name the ink colors in equally-sized lists. Each participant will go through and record a time from each condition.
 
+Google Spreadsheet explanation with image: https://goo.gl/MtJ4eR
+
 # Questions For Investigation
 
 ### 1. What is our independent variable? What is our dependent variable?
@@ -22,7 +24,7 @@ So we can compare the **mean reaction time** for both the populations mainly con
 Clearly we have to compare values for each sample under two different conditions. As we are using pairs of related dataset, ** Paired t-test ** can be used.
 
 ### Set of hypotheses
-* ** H<sub>0</sub> (Null Hypothesis) **(No significant difference): μ <sub>cogruent</sub> − μ <sub>incogruent</sub> = 0 
+* ** H<sub>0</sub> (Null Hypothesis) ** (No significant difference): μ <sub>cogruent</sub> − μ <sub>incogruent</sub> = 0 
 * ** H<sub>a</sub> (Alternate Hypothesis) ** (Significant difference): μ <sub>cogruent</sub> − μ <sub>incogruent</sub> != 0 
 
 
